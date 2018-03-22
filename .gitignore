@@ -1,0 +1,5 @@
+#ignore dogscats
+data/dogscats/
+
+#ignore notebook checkpoints
+.ipynb_checkpoints
